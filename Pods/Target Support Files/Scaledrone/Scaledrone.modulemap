@@ -1,0 +1,6 @@
+framework module Scaledrone {
+  umbrella header "Scaledrone-umbrella.h"
+
+  export *
+  module * { export * }
+}
