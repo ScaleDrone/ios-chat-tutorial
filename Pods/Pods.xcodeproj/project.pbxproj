@@ -9,28 +9,29 @@
 /* Begin PBXBuildFile section */
 		0088055485D76CF5E960DB2B4DB35D60 /* MessageKitError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AB90E4FCD5A88219E84717275D2A1DD /* MessageKitError.swift */; };
 		00F78EAB31963E2871F3B748FA2D23C1 /* MessageContentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E7C84C525BEA96A4B7A2CB2E7B35F30 /* MessageContentCell.swift */; };
-		083D8B78A4DA6F6ACF9BB0980E867FD8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1F7B4AFB2E41A369EFF6E3E81C04691 /* Foundation.framework */; };
 		101F524DC5CCBB352B9DBC4758C3AF39 /* MessageInputBarDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E68A9209FACC149D2A022EE07A0FDD8 /* MessageInputBarDelegate.swift */; };
 		112E7E90D9BD5F8883952E909CAB07FB /* MessageReusableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D151FD6700909F39A4D16CD6A2D7EF2C /* MessageReusableView.swift */; };
 		16F89F9C8A21DB828023C5B01DBAFF19 /* MessageKind.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9838DBE5C34F3B269CB911A0971133CC /* MessageKind.swift */; };
 		17CD36A8FE22EDE188FF820B35E79BBE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1F7B4AFB2E41A369EFF6E3E81C04691 /* Foundation.framework */; };
 		1C4A7E295BFC7F3813571490FEB62E9E /* Sender.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED082E33F9D1B47229F9BEF3B255A160 /* Sender.swift */; };
 		1C6A24FF46BE356E39C241904102FFD0 /* MessagesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97332B700CBFE3FAFB2C99DEFC75543D /* MessagesViewController.swift */; };
-		1D85F717D6E8FDCAF4748972C4A53B48 /* WebSocket.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C56E48A2E8A376C4FF1875F00F04E4 /* WebSocket.swift */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
-		1EEFB2A2EE0BE07D9F56E243BF7AF5F1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1F7B4AFB2E41A369EFF6E3E81C04691 /* Foundation.framework */; };
-		2235CCFAB338157E7FAE7FEA36AF5E39 /* Scaledrone-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 45EAFC71350433D49C35C4F07DAA1036 /* Scaledrone-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2055D714672D813727C697967C5F77AD /* Scaledrone-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 22126DFA017173E7CC0527D0EB89F504 /* Scaledrone-dummy.m */; };
 		22407B4D8EBF08A08033B532F0DBBAD9 /* MediaItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62817E3385F3CC7DCD6F735EAE4BEA05 /* MediaItem.swift */; };
+		28691495045F8122F5D7DD63E2E6DEBF /* Pods-ScaledroneChat-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = FDBD4370FC45C7BD22C9E097E1219D99 /* Pods-ScaledroneChat-dummy.m */; };
 		2B61444047486ED1B217DB923435BD5F /* MessageStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = A779596678A2CA062693D3FA918AE3B6 /* MessageStyle.swift */; };
 		2FD888F8520805DDA8F50685B209AE63 /* InsetLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600BBC4B941FD3C9A21E43D05E0E8860 /* InsetLabel.swift */; };
 		35A38BA2E17A30A0197BD8E52F5D0914 /* LabelAlignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E9E6AE68C253E92BD3E073958FC518 /* LabelAlignment.swift */; };
-		36CEFF9DCF58F9B063BE3860BCD56BBA /* Pods-ScaledroneChatTest-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 27DFAEA627B0E1199C09F1CE11FA8B4C /* Pods-ScaledroneChatTest-dummy.m */; };
+		37C8667C655521ECF6AB31377E01C4C9 /* Starscream-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C2C10993777A2D2BF1C41EA23DDCCEB /* Starscream-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		38B0FEA197372141CCB182F605420D71 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1F7B4AFB2E41A369EFF6E3E81C04691 /* Foundation.framework */; };
 		396D37057C8E89DFE41E5970240BF7B9 /* MessageType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D35752319F3AEABC6FFFB537BC1C6E2 /* MessageType.swift */; };
 		3FF79D4B6266C36F02B6E1B4841A506A /* MessageContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62563F447349B08C14428ACF2887D3D4 /* MessageContainerView.swift */; };
+		471EF33959D97CC1DE0E09D3F1E45784 /* Scaledrone-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 45EAFC71350433D49C35C4F07DAA1036 /* Scaledrone-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		501A6A166D61A0FC756DB73D3B6C51C7 /* Pods-ScaledroneChat-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 049DAA28E74B7B3D6680ABC2569897DF /* Pods-ScaledroneChat-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		52C84F6F777D9FA00087CC7CCFDA6AF5 /* NSConstraintLayoutSet.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3AABB5C7C454F17B417BEF526695073 /* NSConstraintLayoutSet.swift */; };
 		570470D95D433C8162683BAB62EA00DE /* MessagesDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 803F2F6216B6F0C0AF6425C50133E64C /* MessagesDataSource.swift */; };
 		5A9B0D29BE38D34FC42FAF68B92753EF /* LocationMessageSnapshotOptions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A2B29A94ABE3C3FA879D5815C461F0 /* LocationMessageSnapshotOptions.swift */; };
 		5D14B8DDAFD1CC37E1440ACF367A4939 /* MessagesViewController+Keyboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BF37337A70EDF3D1C3BC8ABDEBA6A9C /* MessagesViewController+Keyboard.swift */; };
-		5FB28A28518814E4C1CE43D14A07AECB /* MessageKitAssets.bundle in Resources */ = {isa = PBXBuildFile; fileRef = E379E6D433E33F1BD3CF8FFE3F036816 /* MessageKitAssets.bundle */; };
+		5FB28A28518814E4C1CE43D14A07AECB /* MessageKitAssets.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 44DF8F04633D11D657D3CE533AC6C7AC /* MessageKitAssets.bundle */; };
 		5FB3D8CF1C2D04385F763E26D3A95A1B /* LocationItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40936F0D76350E0430E7C5B375AB99DB /* LocationItem.swift */; };
 		63B0D3A65D9B2AC7470EA972B0F1A1C7 /* Avatar.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1172538B540B701D1361CE35066FD7B /* Avatar.swift */; };
 		650C1E5C7ECCA8933A24E7A0D73E99A8 /* UIView+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5360981C22DF015EFC3C7D8F48579B49 /* UIView+Extensions.swift */; };
@@ -39,55 +40,54 @@
 		6F73DBBFAF0B0397A970B0B345157626 /* UIColor+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97BD3058423EB7B02D2EDB835C51BD72 /* UIColor+Extensions.swift */; };
 		710F86E2B17AB28E3E862B2EAF754AD8 /* Bundle+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7881C288704756AFB0CEB0205343B5AF /* Bundle+Extensions.swift */; };
 		7961D44766270DCE981C31D177DD13D1 /* MessagesViewController+Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F2639D208846C80701E59C9E046FE68 /* MessagesViewController+Menu.swift */; };
-		798D3AB41138C6C780C2180893A83F0F /* Scaledrone-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 22126DFA017173E7CC0527D0EB89F504 /* Scaledrone-dummy.m */; };
-		7F337EEC5B294ACEE0C48FDA14164C4D /* Compression.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A3075753A460AE4D4FB5DC8E7975EC9 /* Compression.swift */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		832E0BFE109CDF5B708025E5EA214B1A /* MessageKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B51021F6A4D9BB17853B2F34287DE190 /* MessageKit-dummy.m */; };
+		8551310315FAAEA24D821A1D94672425 /* Starscream-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 94EB0B1A7CF13AB4DBEBB861745C767D /* Starscream-dummy.m */; };
 		8627B50ADB79A0111EF4D9E0CBD4E665 /* MessageKit+Availability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB679B14219FF3F284B4529626872D0 /* MessageKit+Availability.swift */; };
 		866BD37D8BBAD39E4EB21F8C79E22745 /* MessageLabelDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB3981165C5DE6318C5F9413EC52CAC /* MessageLabelDelegate.swift */; };
-		86769B4C836222900A2847C689D2DCDC /* Pods-ScaledroneChatTest-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 295177513417F0B70B91C1B51E3AC4D3 /* Pods-ScaledroneChatTest-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		886CF9549BCEC81717821DF354BF111D /* SeparatorLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 793C6121D5750F92869A9DDF773D79D0 /* SeparatorLine.swift */; };
 		8ADFF07027CAC560D9618AC4C70BE62B /* MessagesCollectionViewFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7F7858E0D63318E74B09FB569CD56D4 /* MessagesCollectionViewFlowLayout.swift */; };
 		8C3E8A2E653A091443EA939EA2451FA5 /* MessageCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E9330DB4D47ECA12C5683AA637256CD /* MessageCollectionViewCell.swift */; };
 		8ECFBC4F1E604951610C5E25171C76DC /* InputStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E55A7B41CE818552E090D2BE006904D /* InputStackView.swift */; };
 		9395C0F75B5B06DEFA9881093843C415 /* MessageKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 209A6C327C5940C4A4EC300C45E6894A /* MessageKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9DB626E663C9AAB2497C69458B0B5A00 /* WebSocket.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C56E48A2E8A376C4FF1875F00F04E4 /* WebSocket.swift */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		9EF3148630678E4F6347AB0CB7773A69 /* MessageInputBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 966EB89959DBB72535093F71E7E18C18 /* MessageInputBar.swift */; };
 		A11289AD5E9DDCCA9CB9EF5A51E0CB2C /* MessageKitDateFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F6D27AF47D1719CD67FE2394FE721B9 /* MessageKitDateFormatter.swift */; };
 		A337CF096B4B5759E4E6E0DC2134FDF4 /* MessagesLayoutDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2328546BF18BFF7EB2B0C74BF303C40E /* MessagesLayoutDelegate.swift */; };
 		A3CB84D567325048001031F1F69FC698 /* TextMessageSizeCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F660940D68F731DC2B8212D531A93D0 /* TextMessageSizeCalculator.swift */; };
-		A97AC7F9F5E351BC3E31DD721B9D7FE6 /* Starscream.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F52249DD4D3DD3159B64A42F2E7349B /* Starscream.framework */; };
-		AAFEDF5015FCB94B32B948743F7DD148 /* Scaledrone.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED0C7FBC6531F64D686C45CCE0428A6F /* Scaledrone.swift */; };
 		AC142EC861AB13A2D30547507FC38310 /* MessagesCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 311F27DC493E5A69165FEC66DE86CEE5 /* MessagesCollectionView.swift */; };
+		ADFE69FFB6CFE43360C34E6743B8456A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1F7B4AFB2E41A369EFF6E3E81C04691 /* Foundation.framework */; };
 		B2C393CB93A08EEF900A19A593FD1493 /* MessagesCollectionViewLayoutAttributes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27BBC758E5FDEC94C30BAD83C641A289 /* MessagesCollectionViewLayoutAttributes.swift */; };
 		B82F683D84E83E900DF91A5FE819572B /* CGRect+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 270F127A6C1F9E28A7B7E115052A650F /* CGRect+Extensions.swift */; };
-		BFFF104257521C233C06728799A5CAD8 /* Starscream-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 94EB0B1A7CF13AB4DBEBB861745C767D /* Starscream-dummy.m */; };
+		BDB6A8C88691F2BC9B4B8C3CCE2E22E5 /* Scaledrone.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED0C7FBC6531F64D686C45CCE0428A6F /* Scaledrone.swift */; };
 		C00677A2C39DF4C0A300E0FE191DDC37 /* MessageSizeCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03017DC31FB20CB84AEB11826808C19F /* MessageSizeCalculator.swift */; };
 		C66F635F175EAFC6298E91A3F9174E83 /* InputTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F750D76BF6A29A8D149CF94C92581DE6 /* InputTextView.swift */; };
+		C78A2356558BADEE3C8870BDA57448E5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1F7B4AFB2E41A369EFF6E3E81C04691 /* Foundation.framework */; };
 		C8AB21A3A21ACF48DFEBB10EB2E279D5 /* AvatarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 890D9A5030F7BF1C0DE09943098B1C91 /* AvatarView.swift */; };
-		CEC2D14F80A6F35C137B97C34D3FABA1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1F7B4AFB2E41A369EFF6E3E81C04691 /* Foundation.framework */; };
 		D0BCEC3C74FD1FFF79A1404E8AF63E14 /* LocationMessageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77719727E50A40BC66857BA060236F4D /* LocationMessageCell.swift */; };
 		D2BADE9DD0C20B4BFFBAF66FD00A1E50 /* UIEdgeInsets+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20C1A2F3C00C64289E1A0A7826D3A63E /* UIEdgeInsets+Extensions.swift */; };
-		D5E1861B5B32419A31644849D73CC958 /* Starscream-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C2C10993777A2D2BF1C41EA23DDCCEB /* Starscream-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D9D65CF0F96DB047F6AFA9E256444872 /* LocationMessageSizeCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = B51EBD8FD94E54000FE8001F3A2C1434 /* LocationMessageSizeCalculator.swift */; };
-		DEB34D683901C31996815F303D328211 /* SSLSecurity.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4A8F5BF792D0949CEA52CD171C6BB02 /* SSLSecurity.swift */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		E22750A0D8244044E49DBF83E3806D47 /* MediaMessageSizeCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = D12E29246588DDA45FE090803BA24BBC /* MediaMessageSizeCalculator.swift */; };
 		E228BADDE489253B987621D7D97C020E /* TextMessageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFDAD55098F2BED5266EB74BC51C4E7F /* TextMessageCell.swift */; };
 		E54D625550671FEFEB44F4CA6D2B50D6 /* MediaMessageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71E19B89E27124F214AFEBB2AB9FB0A1 /* MediaMessageCell.swift */; };
 		E62202287F2005D48FC2E3528624BFB1 /* InputBarItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F16049498B91B43AA11B7266C14191E /* InputBarItem.swift */; };
 		E6C2C894EE7CECEB285D3D4DAAFB6BF9 /* MessageLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9513D5EBD65A02C2EC3DEEE59C09C9BA /* MessageLabel.swift */; };
+		ED023F67F3B43E57FA939A0E548213DE /* Compression.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A3075753A460AE4D4FB5DC8E7975EC9 /* Compression.swift */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		EF3C069D38E29E02B79C328E93D5A1C8 /* SSLSecurity.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4A8F5BF792D0949CEA52CD171C6BB02 /* SSLSecurity.swift */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		F00D7886197BF2A51537C2AC465D76CA /* PlayButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23BAA4BDFA18BADCDF2B1969D1C6F13D /* PlayButtonView.swift */; };
 		F2151EDC604E2E54335F575E581F07B0 /* MessagesDisplayDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5FA5A5B8E78AFE0026B5A59DD86D1C9 /* MessagesDisplayDelegate.swift */; };
 		F3E8995F9CC576461CBBD571EB94F451 /* CellSizeCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = E346743E322B1828D012575147AA8E7C /* CellSizeCalculator.swift */; };
 		F4BEBBD2F55D60BC68CA7B64F54F3691 /* NSAttributedString+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B218EA072ED290ADE3D12DEE2EEA8532 /* NSAttributedString+Extensions.swift */; };
 		F688A9E5459FB4F9537181731E38B0D0 /* DetectorType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4002FC5E49751BBFDD9977F876F2DD4E /* DetectorType.swift */; };
 		F7AD4EEFBC54511FBE3E7CE0E1C6DD4C /* AvatarPosition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F649C07DA3E8174973C4944448EE099 /* AvatarPosition.swift */; };
+		F95794A59AA75B6E159E39BC6A3500CF /* Starscream.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F52249DD4D3DD3159B64A42F2E7349B /* Starscream.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		22F2EF99E7F4E75A22A59D8FD75CEDC9 /* PBXContainerItemProxy */ = {
+		0188B3FEB8E7A51A3215642389F46E86 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = EC241F85E1DDCDAD4C25D6B24521DBD2;
+			remoteGlobalIDString = 352C11FCAC18F92D24532A8358FC11D6;
 			remoteInfo = Scaledrone;
 		};
 		305D32711E258F5DA84B342FF0132B02 /* PBXContainerItemProxy */ = {
@@ -97,61 +97,59 @@
 			remoteGlobalIDString = 7A1152B5B1E933E4CA57E31CCF627C0B;
 			remoteInfo = "MessageKit-MessageKitAssets";
 		};
-		4400EC445C8436F916BB2FFD9B624CD2 /* PBXContainerItemProxy */ = {
+		7D7582926F75B4EDA35AC03FF154D586 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 9FF7D45F060B1C2B29487F13C7CC8EA9;
 			remoteInfo = MessageKit;
 		};
-		5DD34EA78903FC81B12F4D5903A3943A /* PBXContainerItemProxy */ = {
+		B1E0C3FD263D9E38DC2F7C9C7EA66C99 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 79337CB27B74EC1463CD965EB9C3529D;
+			remoteGlobalIDString = 72D10AE2DB60C961941386223BE8A011;
 			remoteInfo = Starscream;
 		};
-		B5C0FAB66E0304FAAE5270982E71E515 /* PBXContainerItemProxy */ = {
+		F82919F207799074805BFA1500281055 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 79337CB27B74EC1463CD965EB9C3529D;
+			remoteGlobalIDString = 72D10AE2DB60C961941386223BE8A011;
 			remoteInfo = Starscream;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		018B6D1D8C8F42D6C7D43EA09DEF5C92 /* Pods-ScaledroneChatTest-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ScaledroneChatTest-acknowledgements.markdown"; sourceTree = "<group>"; };
 		03017DC31FB20CB84AEB11826808C19F /* MessageSizeCalculator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MessageSizeCalculator.swift; path = Sources/Layout/MessageSizeCalculator.swift; sourceTree = "<group>"; };
-		03F6F4CBE074A347C2394335F6F02458 /* Starscream.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Starscream.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		049DAA28E74B7B3D6680ABC2569897DF /* Pods-ScaledroneChat-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ScaledroneChat-umbrella.h"; sourceTree = "<group>"; };
 		06484F73BB7B1D1716093B42D6288FEC /* Scaledrone.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Scaledrone.modulemap; sourceTree = "<group>"; };
-		090C1F32F6F07C5DFFE0BC5F6C4B58E3 /* Pods-ScaledroneChatTest-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ScaledroneChatTest-frameworks.sh"; sourceTree = "<group>"; };
 		0D35752319F3AEABC6FFFB537BC1C6E2 /* MessageType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MessageType.swift; path = Sources/Protocols/MessageType.swift; sourceTree = "<group>"; };
 		0DA345E0B1A307DAC84616C224501577 /* MessageKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MessageKit.modulemap; sourceTree = "<group>"; };
 		0E81943ABAE27A0934C9BB61167095C5 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0F52249DD4D3DD3159B64A42F2E7349B /* Starscream.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Starscream.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		13C2B9174C3B84738D324675BFCEDA92 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		102BDB48F4B122F22A5E6422655A1078 /* Pods_ScaledroneChat.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ScaledroneChat.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F16049498B91B43AA11B7266C14191E /* InputBarItem.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = InputBarItem.swift; path = Sources/Views/InputBarItem.swift; sourceTree = "<group>"; };
 		1F649C07DA3E8174973C4944448EE099 /* AvatarPosition.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AvatarPosition.swift; path = Sources/Models/AvatarPosition.swift; sourceTree = "<group>"; };
 		1F6D27AF47D1719CD67FE2394FE721B9 /* MessageKitDateFormatter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MessageKitDateFormatter.swift; path = Sources/Models/MessageKitDateFormatter.swift; sourceTree = "<group>"; };
 		209A6C327C5940C4A4EC300C45E6894A /* MessageKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MessageKit-umbrella.h"; sourceTree = "<group>"; };
 		20C1A2F3C00C64289E1A0A7826D3A63E /* UIEdgeInsets+Extensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIEdgeInsets+Extensions.swift"; path = "Sources/Extensions/UIEdgeInsets+Extensions.swift"; sourceTree = "<group>"; };
-		2139E13FFFA796FE93B4E2A43B260146 /* MessageKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MessageKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		22126DFA017173E7CC0527D0EB89F504 /* Scaledrone-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Scaledrone-dummy.m"; sourceTree = "<group>"; };
 		2328546BF18BFF7EB2B0C74BF303C40E /* MessagesLayoutDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MessagesLayoutDelegate.swift; path = Sources/Protocols/MessagesLayoutDelegate.swift; sourceTree = "<group>"; };
-		234CA386E2B1B28B70D4ADA060C36673 /* Pods-ScaledroneChatTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ScaledroneChatTest.release.xcconfig"; sourceTree = "<group>"; };
 		23BAA4BDFA18BADCDF2B1969D1C6F13D /* PlayButtonView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PlayButtonView.swift; path = Sources/Views/PlayButtonView.swift; sourceTree = "<group>"; };
 		253656D3A1EB9AA0A74F64C85AA48241 /* ResourceBundle-MessageKitAssets-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-MessageKitAssets-Info.plist"; sourceTree = "<group>"; };
 		270F127A6C1F9E28A7B7E115052A650F /* CGRect+Extensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "CGRect+Extensions.swift"; path = "Sources/Extensions/CGRect+Extensions.swift"; sourceTree = "<group>"; };
 		27BBC758E5FDEC94C30BAD83C641A289 /* MessagesCollectionViewLayoutAttributes.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MessagesCollectionViewLayoutAttributes.swift; path = Sources/Layout/MessagesCollectionViewLayoutAttributes.swift; sourceTree = "<group>"; };
-		27DFAEA627B0E1199C09F1CE11FA8B4C /* Pods-ScaledroneChatTest-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ScaledroneChatTest-dummy.m"; sourceTree = "<group>"; };
-		295177513417F0B70B91C1B51E3AC4D3 /* Pods-ScaledroneChatTest-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ScaledroneChatTest-umbrella.h"; sourceTree = "<group>"; };
 		2F660940D68F731DC2B8212D531A93D0 /* TextMessageSizeCalculator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TextMessageSizeCalculator.swift; path = Sources/Layout/TextMessageSizeCalculator.swift; sourceTree = "<group>"; };
 		311F27DC493E5A69165FEC66DE86CEE5 /* MessagesCollectionView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MessagesCollectionView.swift; path = Sources/Views/MessagesCollectionView.swift; sourceTree = "<group>"; };
 		32E7D32A30EDEBAE1073B1F374BE8934 /* MessageKit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MessageKit.xcconfig; sourceTree = "<group>"; };
 		35C56E48A2E8A376C4FF1875F00F04E4 /* WebSocket.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = WebSocket.swift; path = Source/WebSocket.swift; sourceTree = "<group>"; };
+		377F68245FD74DA504C4B24C74E9183A /* Pods-ScaledroneChat-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ScaledroneChat-acknowledgements.plist"; sourceTree = "<group>"; };
+		3D1E8B5E1771094E7202CD6BB670E7DD /* MessageKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MessageKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4002FC5E49751BBFDD9977F876F2DD4E /* DetectorType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DetectorType.swift; path = Sources/Models/DetectorType.swift; sourceTree = "<group>"; };
 		40936F0D76350E0430E7C5B375AB99DB /* LocationItem.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LocationItem.swift; path = Sources/Protocols/LocationItem.swift; sourceTree = "<group>"; };
+		44DF8F04633D11D657D3CE533AC6C7AC /* MessageKitAssets.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MessageKitAssets.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		458E42521C6A24D34A023563BA2F0F2E /* Pods-ScaledroneChat-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ScaledroneChat-acknowledgements.markdown"; sourceTree = "<group>"; };
 		45EAFC71350433D49C35C4F07DAA1036 /* Scaledrone-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Scaledrone-umbrella.h"; sourceTree = "<group>"; };
 		487219C34DCE34E3FFEE209F8EB53651 /* Starscream-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Starscream-prefix.pch"; sourceTree = "<group>"; };
 		4EB3981165C5DE6318C5F9413EC52CAC /* MessageLabelDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MessageLabelDelegate.swift; path = Sources/Protocols/MessageLabelDelegate.swift; sourceTree = "<group>"; };
@@ -162,11 +160,11 @@
 		600BBC4B941FD3C9A21E43D05E0E8860 /* InsetLabel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = InsetLabel.swift; path = Sources/Views/InsetLabel.swift; sourceTree = "<group>"; };
 		62563F447349B08C14428ACF2887D3D4 /* MessageContainerView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MessageContainerView.swift; path = Sources/Views/MessageContainerView.swift; sourceTree = "<group>"; };
 		62817E3385F3CC7DCD6F735EAE4BEA05 /* MediaItem.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MediaItem.swift; path = Sources/Protocols/MediaItem.swift; sourceTree = "<group>"; };
-		654994C081F6460729DDCD6203704B95 /* Pods-ScaledroneChatTest.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ScaledroneChatTest.modulemap"; sourceTree = "<group>"; };
 		6AB90E4FCD5A88219E84717275D2A1DD /* MessageKitError.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MessageKitError.swift; path = Sources/Models/MessageKitError.swift; sourceTree = "<group>"; };
 		6E7C84C525BEA96A4B7A2CB2E7B35F30 /* MessageContentCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MessageContentCell.swift; path = Sources/Views/Cells/MessageContentCell.swift; sourceTree = "<group>"; };
 		6F2639D208846C80701E59C9E046FE68 /* MessagesViewController+Menu.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "MessagesViewController+Menu.swift"; path = "Sources/Controllers/MessagesViewController+Menu.swift"; sourceTree = "<group>"; };
 		71E19B89E27124F214AFEBB2AB9FB0A1 /* MediaMessageCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MediaMessageCell.swift; path = Sources/Views/Cells/MediaMessageCell.swift; sourceTree = "<group>"; };
+		76B1727A476DA280C37CAF3510064203 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		77719727E50A40BC66857BA060236F4D /* LocationMessageCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LocationMessageCell.swift; path = Sources/Views/Cells/LocationMessageCell.swift; sourceTree = "<group>"; };
 		7881C288704756AFB0CEB0205343B5AF /* Bundle+Extensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Bundle+Extensions.swift"; path = "Sources/Extensions/Bundle+Extensions.swift"; sourceTree = "<group>"; };
 		793C6121D5750F92869A9DDF773D79D0 /* SeparatorLine.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SeparatorLine.swift; path = Sources/Views/SeparatorLine.swift; sourceTree = "<group>"; };
@@ -178,6 +176,7 @@
 		803F2F6216B6F0C0AF6425C50133E64C /* MessagesDataSource.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MessagesDataSource.swift; path = Sources/Protocols/MessagesDataSource.swift; sourceTree = "<group>"; };
 		890D9A5030F7BF1C0DE09943098B1C91 /* AvatarView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AvatarView.swift; path = Sources/Views/AvatarView.swift; sourceTree = "<group>"; };
 		8A3075753A460AE4D4FB5DC8E7975EC9 /* Compression.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Compression.swift; path = Source/Compression.swift; sourceTree = "<group>"; };
+		91B025251ECABBCD0909436368AC44BA /* Pods-ScaledroneChat-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ScaledroneChat-resources.sh"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		94EB0B1A7CF13AB4DBEBB861745C767D /* Starscream-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Starscream-dummy.m"; sourceTree = "<group>"; };
 		9513D5EBD65A02C2EC3DEEE59C09C9BA /* MessageLabel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MessageLabel.swift; path = Sources/Views/MessageLabel.swift; sourceTree = "<group>"; };
@@ -187,35 +186,36 @@
 		9838DBE5C34F3B269CB911A0971133CC /* MessageKind.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MessageKind.swift; path = Sources/Models/MessageKind.swift; sourceTree = "<group>"; };
 		9A2075DA3AF5FBAE75E132C5CCB8BB58 /* Images */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder; name = Images; path = Assets/MessageKitAssets.bundle/Images; sourceTree = "<group>"; };
 		9E68A9209FACC149D2A022EE07A0FDD8 /* MessageInputBarDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MessageInputBarDelegate.swift; path = Sources/Protocols/MessageInputBarDelegate.swift; sourceTree = "<group>"; };
-		A3A1F1336B03A438EFFEAE4558069953 /* Pods-ScaledroneChatTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ScaledroneChatTest.debug.xcconfig"; sourceTree = "<group>"; };
 		A3AABB5C7C454F17B417BEF526695073 /* NSConstraintLayoutSet.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NSConstraintLayoutSet.swift; path = Sources/Models/NSConstraintLayoutSet.swift; sourceTree = "<group>"; };
 		A5FA5A5B8E78AFE0026B5A59DD86D1C9 /* MessagesDisplayDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MessagesDisplayDelegate.swift; path = Sources/Protocols/MessagesDisplayDelegate.swift; sourceTree = "<group>"; };
 		A779596678A2CA062693D3FA918AE3B6 /* MessageStyle.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MessageStyle.swift; path = Sources/Models/MessageStyle.swift; sourceTree = "<group>"; };
 		A9520EA97B1B28356FD41C653B002BAF /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ABF75EE83379AFD40456A58A0CA3CCDE /* Pods-ScaledroneChat.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ScaledroneChat.modulemap"; sourceTree = "<group>"; };
 		AE58F679690D51E7C07EF13EE5AD8242 /* MessageCellDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MessageCellDelegate.swift; path = Sources/Protocols/MessageCellDelegate.swift; sourceTree = "<group>"; };
 		B218EA072ED290ADE3D12DEE2EEA8532 /* NSAttributedString+Extensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "NSAttributedString+Extensions.swift"; path = "Sources/Extensions/NSAttributedString+Extensions.swift"; sourceTree = "<group>"; };
+		B4CB4666AB3E5106020A69FB5A28F0D2 /* Pods-ScaledroneChat.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ScaledroneChat.release.xcconfig"; sourceTree = "<group>"; };
 		B51021F6A4D9BB17853B2F34287DE190 /* MessageKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MessageKit-dummy.m"; sourceTree = "<group>"; };
 		B51EBD8FD94E54000FE8001F3A2C1434 /* LocationMessageSizeCalculator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LocationMessageSizeCalculator.swift; path = Sources/Layout/LocationMessageSizeCalculator.swift; sourceTree = "<group>"; };
 		B703DFCBF2AB94EB9F3871796B18926A /* MessageKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MessageKit-prefix.pch"; sourceTree = "<group>"; };
 		C23372972353149152FD42C8C7A51525 /* Starscream.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Starscream.modulemap; sourceTree = "<group>"; };
 		C7F7858E0D63318E74B09FB569CD56D4 /* MessagesCollectionViewFlowLayout.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MessagesCollectionViewFlowLayout.swift; path = Sources/Layout/MessagesCollectionViewFlowLayout.swift; sourceTree = "<group>"; };
+		CB0EE87261DE7BE1AE61AB6F0A6F56B1 /* Starscream.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Starscream.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		CC7271512D909FA7B01B420C812C927B /* Scaledrone.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Scaledrone.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0A2B29A94ABE3C3FA879D5815C461F0 /* LocationMessageSnapshotOptions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LocationMessageSnapshotOptions.swift; path = Sources/Models/LocationMessageSnapshotOptions.swift; sourceTree = "<group>"; };
 		D1172538B540B701D1361CE35066FD7B /* Avatar.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Avatar.swift; path = Sources/Models/Avatar.swift; sourceTree = "<group>"; };
 		D12E29246588DDA45FE090803BA24BBC /* MediaMessageSizeCalculator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MediaMessageSizeCalculator.swift; path = Sources/Layout/MediaMessageSizeCalculator.swift; sourceTree = "<group>"; };
 		D151FD6700909F39A4D16CD6A2D7EF2C /* MessageReusableView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MessageReusableView.swift; path = "Sources/Views/Headers & Footers/MessageReusableView.swift"; sourceTree = "<group>"; };
-		D321C5A8D3DD20D30E9882AB313CE54B /* Pods_ScaledroneChatTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ScaledroneChatTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		D4244F25636EC82A4EDE4EB622AF7DBD /* Pods-ScaledroneChatTest-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ScaledroneChatTest-acknowledgements.plist"; sourceTree = "<group>"; };
 		D4A8F5BF792D0949CEA52CD171C6BB02 /* SSLSecurity.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SSLSecurity.swift; path = Source/SSLSecurity.swift; sourceTree = "<group>"; };
+		D9DBCE3EE5F72CA9F2E28DECFE89C2B7 /* Pods-ScaledroneChat.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ScaledroneChat.debug.xcconfig"; sourceTree = "<group>"; };
 		DA6B5145853931CD1AD0B07E4514B9B6 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E1816E5D4007032B83B0925ABF56EACB /* Pods-ScaledroneChatTest-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ScaledroneChatTest-resources.sh"; sourceTree = "<group>"; };
 		E346743E322B1828D012575147AA8E7C /* CellSizeCalculator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CellSizeCalculator.swift; path = Sources/Layout/CellSizeCalculator.swift; sourceTree = "<group>"; };
-		E379E6D433E33F1BD3CF8FFE3F036816 /* MessageKitAssets.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MessageKitAssets.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
-		EB2FEDC1B99287040457A72DC73DA802 /* Scaledrone.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Scaledrone.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED082E33F9D1B47229F9BEF3B255A160 /* Sender.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Sender.swift; path = Sources/Models/Sender.swift; sourceTree = "<group>"; };
 		ED0C7FBC6531F64D686C45CCE0428A6F /* Scaledrone.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Scaledrone.swift; path = "scaledrone-swift/Scaledrone.swift"; sourceTree = "<group>"; };
 		F1F7B4AFB2E41A369EFF6E3E81C04691 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		F750D76BF6A29A8D149CF94C92581DE6 /* InputTextView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = InputTextView.swift; path = Sources/Views/InputTextView.swift; sourceTree = "<group>"; };
+		F7840255D8C78E7050F31D72E5F67E38 /* Pods-ScaledroneChat-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ScaledroneChat-frameworks.sh"; sourceTree = "<group>"; };
 		FC895900E01A2D1C1AFF80444B10F6AD /* Scaledrone.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Scaledrone.xcconfig; sourceTree = "<group>"; };
+		FDBD4370FC45C7BD22C9E097E1219D99 /* Pods-ScaledroneChat-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ScaledroneChat-dummy.m"; sourceTree = "<group>"; };
 		FFDAD55098F2BED5266EB74BC51C4E7F /* TextMessageCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TextMessageCell.swift; path = Sources/Views/Cells/TextMessageCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -227,12 +227,12 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		56A5E6A275472E2F48745F929810E2CE /* Frameworks */ = {
+		1EC21501F3676993BA651EC63D05578D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CEC2D14F80A6F35C137B97C34D3FABA1 /* Foundation.framework in Frameworks */,
-				A97AC7F9F5E351BC3E31DD721B9D7FE6 /* Starscream.framework in Frameworks */,
+				38B0FEA197372141CCB182F605420D71 /* Foundation.framework in Frameworks */,
+				F95794A59AA75B6E159E39BC6A3500CF /* Starscream.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -244,19 +244,19 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BA8AF23F704AFE2AA550F5C49CDDE7C2 /* Frameworks */ = {
+		7CCF4914FA48ED04595DA859E0CF9E1F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				083D8B78A4DA6F6ACF9BB0980E867FD8 /* Foundation.framework in Frameworks */,
+				C78A2356558BADEE3C8870BDA57448E5 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CFB494F0A5705C79996758E6BB823C12 /* Frameworks */ = {
+		A42190996909DD7AF8BE53EC95BBACED /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1EEFB2A2EE0BE07D9F56E243BF7AF5F1 /* Foundation.framework in Frameworks */,
+				ADFE69FFB6CFE43360C34E6743B8456A /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -271,42 +271,24 @@
 			name = Resources;
 			sourceTree = "<group>";
 		};
-		19B59FE37E5BB274D508600B2A0E90DE /* Pods-ScaledroneChatTest */ = {
+		12FAB4AE28B42B993B2426272FD86D05 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13C2B9174C3B84738D324675BFCEDA92 /* Info.plist */,
-				654994C081F6460729DDCD6203704B95 /* Pods-ScaledroneChatTest.modulemap */,
-				018B6D1D8C8F42D6C7D43EA09DEF5C92 /* Pods-ScaledroneChatTest-acknowledgements.markdown */,
-				D4244F25636EC82A4EDE4EB622AF7DBD /* Pods-ScaledroneChatTest-acknowledgements.plist */,
-				27DFAEA627B0E1199C09F1CE11FA8B4C /* Pods-ScaledroneChatTest-dummy.m */,
-				090C1F32F6F07C5DFFE0BC5F6C4B58E3 /* Pods-ScaledroneChatTest-frameworks.sh */,
-				E1816E5D4007032B83B0925ABF56EACB /* Pods-ScaledroneChatTest-resources.sh */,
-				295177513417F0B70B91C1B51E3AC4D3 /* Pods-ScaledroneChatTest-umbrella.h */,
-				A3A1F1336B03A438EFFEAE4558069953 /* Pods-ScaledroneChatTest.debug.xcconfig */,
-				234CA386E2B1B28B70D4ADA060C36673 /* Pods-ScaledroneChatTest.release.xcconfig */,
-			);
-			name = "Pods-ScaledroneChatTest";
-			path = "Target Support Files/Pods-ScaledroneChatTest";
-			sourceTree = "<group>";
-		};
-		5DCE8CF564230B0854D569A52AAC3A63 /* Targets Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				19B59FE37E5BB274D508600B2A0E90DE /* Pods-ScaledroneChatTest */,
-			);
-			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		771D673EB37434E42D209D4291CAC021 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				2139E13FFFA796FE93B4E2A43B260146 /* MessageKit.framework */,
-				E379E6D433E33F1BD3CF8FFE3F036816 /* MessageKitAssets.bundle */,
-				D321C5A8D3DD20D30E9882AB313CE54B /* Pods_ScaledroneChatTest.framework */,
-				EB2FEDC1B99287040457A72DC73DA802 /* Scaledrone.framework */,
-				03F6F4CBE074A347C2394335F6F02458 /* Starscream.framework */,
+				3D1E8B5E1771094E7202CD6BB670E7DD /* MessageKit.framework */,
+				44DF8F04633D11D657D3CE533AC6C7AC /* MessageKitAssets.bundle */,
+				102BDB48F4B122F22A5E6422655A1078 /* Pods_ScaledroneChat.framework */,
+				CC7271512D909FA7B01B420C812C927B /* Scaledrone.framework */,
+				CB0EE87261DE7BE1AE61AB6F0A6F56B1 /* Starscream.framework */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		36F789B31C44B1FCCD26A29B18E9732F /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				9B55C3831529845256E509576F5F9169 /* Pods-ScaledroneChat */,
+			);
+			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
@@ -315,8 +297,8 @@
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				C6C6CF85326A60B112CC4A77BAD281D7 /* Frameworks */,
 				AE47C0A381E0B6BC6D815B87F7417D67 /* Pods */,
-				771D673EB37434E42D209D4291CAC021 /* Products */,
-				5DCE8CF564230B0854D569A52AAC3A63 /* Targets Support Files */,
+				12FAB4AE28B42B993B2426272FD86D05 /* Products */,
+				36F789B31C44B1FCCD26A29B18E9732F /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
@@ -381,6 +363,24 @@
 				B91B929C70F2E7F15F273F3D742F6065 /* Support Files */,
 			);
 			path = MessageKit;
+			sourceTree = "<group>";
+		};
+		9B55C3831529845256E509576F5F9169 /* Pods-ScaledroneChat */ = {
+			isa = PBXGroup;
+			children = (
+				76B1727A476DA280C37CAF3510064203 /* Info.plist */,
+				ABF75EE83379AFD40456A58A0CA3CCDE /* Pods-ScaledroneChat.modulemap */,
+				458E42521C6A24D34A023563BA2F0F2E /* Pods-ScaledroneChat-acknowledgements.markdown */,
+				377F68245FD74DA504C4B24C74E9183A /* Pods-ScaledroneChat-acknowledgements.plist */,
+				FDBD4370FC45C7BD22C9E097E1219D99 /* Pods-ScaledroneChat-dummy.m */,
+				F7840255D8C78E7050F31D72E5F67E38 /* Pods-ScaledroneChat-frameworks.sh */,
+				91B025251ECABBCD0909436368AC44BA /* Pods-ScaledroneChat-resources.sh */,
+				049DAA28E74B7B3D6680ABC2569897DF /* Pods-ScaledroneChat-umbrella.h */,
+				D9DBCE3EE5F72CA9F2E28DECFE89C2B7 /* Pods-ScaledroneChat.debug.xcconfig */,
+				B4CB4666AB3E5106020A69FB5A28F0D2 /* Pods-ScaledroneChat.release.xcconfig */,
+			);
+			name = "Pods-ScaledroneChat";
+			path = "Target Support Files/Pods-ScaledroneChat";
 			sourceTree = "<group>";
 		};
 		AE47C0A381E0B6BC6D815B87F7417D67 /* Pods */ = {
@@ -476,6 +476,14 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
+		21111A06D5436438E903DB534E7243EE /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				471EF33959D97CC1DE0E09D3F1E45784 /* Scaledrone-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		274F94B9C589C8EE2FE69B4B81A6410C /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -484,40 +492,50 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		332996AB3D49015A762E4B62D87E2296 /* Headers */ = {
+		560EF4488D15B4DBA7C9EFD838ACA85F /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				86769B4C836222900A2847C689D2DCDC /* Pods-ScaledroneChatTest-umbrella.h in Headers */,
+				37C8667C655521ECF6AB31377E01C4C9 /* Starscream-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		48C33FE17D0340D5E6C5C1452D6DADCF /* Headers */ = {
+		B00B16E8D74D3F5356535589A1BE83AD /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D5E1861B5B32419A31644849D73CC958 /* Starscream-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		C5CDC120811F6808261DC3C51DC81575 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				2235CCFAB338157E7FAE7FEA36AF5E39 /* Scaledrone-umbrella.h in Headers */,
+				501A6A166D61A0FC756DB73D3B6C51C7 /* Pods-ScaledroneChat-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		79337CB27B74EC1463CD965EB9C3529D /* Starscream */ = {
+		352C11FCAC18F92D24532A8358FC11D6 /* Scaledrone */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EF1CFD859495C84562F926081E12D90E /* Build configuration list for PBXNativeTarget "Starscream" */;
+			buildConfigurationList = 0492AB267E29B10B5CD13DEA6D895C83 /* Build configuration list for PBXNativeTarget "Scaledrone" */;
 			buildPhases = (
-				76E9D62B2AC0489F332276B37A97096B /* Sources */,
-				CFB494F0A5705C79996758E6BB823C12 /* Frameworks */,
-				48C33FE17D0340D5E6C5C1452D6DADCF /* Headers */,
+				FBA00AC639DF9880B311017C66F3BC70 /* Sources */,
+				1EC21501F3676993BA651EC63D05578D /* Frameworks */,
+				21111A06D5436438E903DB534E7243EE /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AB55FA5E45BB59961DA23DB04F4C4086 /* PBXTargetDependency */,
+			);
+			name = Scaledrone;
+			productName = Scaledrone;
+			productReference = CC7271512D909FA7B01B420C812C927B /* Scaledrone.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		72D10AE2DB60C961941386223BE8A011 /* Starscream */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC6CC18F6EE7EE1CCD44FAF2439531D2 /* Build configuration list for PBXNativeTarget "Starscream" */;
+			buildPhases = (
+				B4A0F9652655E82BB8DFD5F072C4BDA6 /* Sources */,
+				7CCF4914FA48ED04595DA859E0CF9E1F /* Frameworks */,
+				560EF4488D15B4DBA7C9EFD838ACA85F /* Headers */,
 			);
 			buildRules = (
 			);
@@ -525,7 +543,27 @@
 			);
 			name = Starscream;
 			productName = Starscream;
-			productReference = 03F6F4CBE074A347C2394335F6F02458 /* Starscream.framework */;
+			productReference = CB0EE87261DE7BE1AE61AB6F0A6F56B1 /* Starscream.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		74443D6F70101C44B479FC65A5040826 /* Pods-ScaledroneChat */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 77F3BE169E1F38B9D131C5864ECC953C /* Build configuration list for PBXNativeTarget "Pods-ScaledroneChat" */;
+			buildPhases = (
+				17975C9A61772B62DA2AB1B8F9029970 /* Sources */,
+				A42190996909DD7AF8BE53EC95BBACED /* Frameworks */,
+				B00B16E8D74D3F5356535589A1BE83AD /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B5B5EF39E5175C1D3A6FE993F0A3BE6F /* PBXTargetDependency */,
+				5B14AD55AD76CEE07CC42BDBCF3F4862 /* PBXTargetDependency */,
+				DED8C2B239B359D15270E4E33E168D38 /* PBXTargetDependency */,
+			);
+			name = "Pods-ScaledroneChat";
+			productName = "Pods-ScaledroneChat";
+			productReference = 102BDB48F4B122F22A5E6422655A1078 /* Pods_ScaledroneChat.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		7A1152B5B1E933E4CA57E31CCF627C0B /* MessageKit-MessageKitAssets */ = {
@@ -542,7 +580,7 @@
 			);
 			name = "MessageKit-MessageKitAssets";
 			productName = "MessageKit-MessageKitAssets";
-			productReference = E379E6D433E33F1BD3CF8FFE3F036816 /* MessageKitAssets.bundle */;
+			productReference = 44DF8F04633D11D657D3CE533AC6C7AC /* MessageKitAssets.bundle */;
 			productType = "com.apple.product-type.bundle";
 		};
 		9FF7D45F060B1C2B29487F13C7CC8EA9 /* MessageKit */ = {
@@ -561,45 +599,7 @@
 			);
 			name = MessageKit;
 			productName = MessageKit;
-			productReference = 2139E13FFFA796FE93B4E2A43B260146 /* MessageKit.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		A60C500F25B09A1DD00BEC2B3311E03D /* Pods-ScaledroneChatTest */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 63ABD4FB30D3DA12B0D3E97B211DA222 /* Build configuration list for PBXNativeTarget "Pods-ScaledroneChatTest" */;
-			buildPhases = (
-				0255CC0DBE0354733A36B2ED100B4076 /* Sources */,
-				BA8AF23F704AFE2AA550F5C49CDDE7C2 /* Frameworks */,
-				332996AB3D49015A762E4B62D87E2296 /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				BB780F5843876361129505AB827436E2 /* PBXTargetDependency */,
-				BEAD6E5A95F142B9A1E58AE3BC694463 /* PBXTargetDependency */,
-				AFC151D1BE2EFFD6155B02F6D514A7E2 /* PBXTargetDependency */,
-			);
-			name = "Pods-ScaledroneChatTest";
-			productName = "Pods-ScaledroneChatTest";
-			productReference = D321C5A8D3DD20D30E9882AB313CE54B /* Pods_ScaledroneChatTest.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		EC241F85E1DDCDAD4C25D6B24521DBD2 /* Scaledrone */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = FF81DADE62F500B5C6E99933620CA97D /* Build configuration list for PBXNativeTarget "Scaledrone" */;
-			buildPhases = (
-				C59542B9E4167D4A5C481831FF4BBC6A /* Sources */,
-				56A5E6A275472E2F48745F929810E2CE /* Frameworks */,
-				C5CDC120811F6808261DC3C51DC81575 /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				852EABFC80B21A83A4866027771E27F9 /* PBXTargetDependency */,
-			);
-			name = Scaledrone;
-			productName = Scaledrone;
-			productReference = EB2FEDC1B99287040457A72DC73DA802 /* Scaledrone.framework */;
+			productReference = 3D1E8B5E1771094E7202CD6BB670E7DD /* MessageKit.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -619,15 +619,15 @@
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = 771D673EB37434E42D209D4291CAC021 /* Products */;
+			productRefGroup = 12FAB4AE28B42B993B2426272FD86D05 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
 				9FF7D45F060B1C2B29487F13C7CC8EA9 /* MessageKit */,
 				7A1152B5B1E933E4CA57E31CCF627C0B /* MessageKit-MessageKitAssets */,
-				A60C500F25B09A1DD00BEC2B3311E03D /* Pods-ScaledroneChatTest */,
-				EC241F85E1DDCDAD4C25D6B24521DBD2 /* Scaledrone */,
-				79337CB27B74EC1463CD965EB9C3529D /* Starscream */,
+				74443D6F70101C44B479FC65A5040826 /* Pods-ScaledroneChat */,
+				352C11FCAC18F92D24532A8358FC11D6 /* Scaledrone */,
+				72D10AE2DB60C961941386223BE8A011 /* Starscream */,
 			);
 		};
 /* End PBXProject section */
@@ -652,11 +652,11 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		0255CC0DBE0354733A36B2ED100B4076 /* Sources */ = {
+		17975C9A61772B62DA2AB1B8F9029970 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				36CEFF9DCF58F9B063BE3860BCD56BBA /* Pods-ScaledroneChatTest-dummy.m in Sources */,
+				28691495045F8122F5D7DD63E2E6DEBF /* Pods-ScaledroneChat-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -664,17 +664,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		76E9D62B2AC0489F332276B37A97096B /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				7F337EEC5B294ACEE0C48FDA14164C4D /* Compression.swift in Sources */,
-				DEB34D683901C31996815F303D328211 /* SSLSecurity.swift in Sources */,
-				BFFF104257521C233C06728799A5CAD8 /* Starscream-dummy.m in Sources */,
-				1D85F717D6E8FDCAF4748972C4A53B48 /* WebSocket.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -740,12 +729,23 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C59542B9E4167D4A5C481831FF4BBC6A /* Sources */ = {
+		B4A0F9652655E82BB8DFD5F072C4BDA6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				798D3AB41138C6C780C2180893A83F0F /* Scaledrone-dummy.m in Sources */,
-				AAFEDF5015FCB94B32B948743F7DD148 /* Scaledrone.swift in Sources */,
+				ED023F67F3B43E57FA939A0E548213DE /* Compression.swift in Sources */,
+				EF3C069D38E29E02B79C328E93D5A1C8 /* SSLSecurity.swift in Sources */,
+				8551310315FAAEA24D821A1D94672425 /* Starscream-dummy.m in Sources */,
+				9DB626E663C9AAB2497C69458B0B5A00 /* WebSocket.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FBA00AC639DF9880B311017C66F3BC70 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2055D714672D813727C697967C5F77AD /* Scaledrone-dummy.m in Sources */,
+				BDB6A8C88691F2BC9B4B8C3CCE2E22E5 /* Scaledrone.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -758,29 +758,29 @@
 			target = 7A1152B5B1E933E4CA57E31CCF627C0B /* MessageKit-MessageKitAssets */;
 			targetProxy = 305D32711E258F5DA84B342FF0132B02 /* PBXContainerItemProxy */;
 		};
-		852EABFC80B21A83A4866027771E27F9 /* PBXTargetDependency */ = {
+		5B14AD55AD76CEE07CC42BDBCF3F4862 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Scaledrone;
+			target = 352C11FCAC18F92D24532A8358FC11D6 /* Scaledrone */;
+			targetProxy = 0188B3FEB8E7A51A3215642389F46E86 /* PBXContainerItemProxy */;
+		};
+		AB55FA5E45BB59961DA23DB04F4C4086 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = Starscream;
-			target = 79337CB27B74EC1463CD965EB9C3529D /* Starscream */;
-			targetProxy = B5C0FAB66E0304FAAE5270982E71E515 /* PBXContainerItemProxy */;
+			target = 72D10AE2DB60C961941386223BE8A011 /* Starscream */;
+			targetProxy = B1E0C3FD263D9E38DC2F7C9C7EA66C99 /* PBXContainerItemProxy */;
 		};
-		AFC151D1BE2EFFD6155B02F6D514A7E2 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = Starscream;
-			target = 79337CB27B74EC1463CD965EB9C3529D /* Starscream */;
-			targetProxy = 5DD34EA78903FC81B12F4D5903A3943A /* PBXContainerItemProxy */;
-		};
-		BB780F5843876361129505AB827436E2 /* PBXTargetDependency */ = {
+		B5B5EF39E5175C1D3A6FE993F0A3BE6F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = MessageKit;
 			target = 9FF7D45F060B1C2B29487F13C7CC8EA9 /* MessageKit */;
-			targetProxy = 4400EC445C8436F916BB2FFD9B624CD2 /* PBXContainerItemProxy */;
+			targetProxy = 7D7582926F75B4EDA35AC03FF154D586 /* PBXContainerItemProxy */;
 		};
-		BEAD6E5A95F142B9A1E58AE3BC694463 /* PBXTargetDependency */ = {
+		DED8C2B239B359D15270E4E33E168D38 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = Scaledrone;
-			target = EC241F85E1DDCDAD4C25D6B24521DBD2 /* Scaledrone */;
-			targetProxy = 22F2EF99E7F4E75A22A59D8FD75CEDC9 /* PBXContainerItemProxy */;
+			name = Starscream;
+			target = 72D10AE2DB60C961941386223BE8A011 /* Starscream */;
+			targetProxy = F82919F207799074805BFA1500281055 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -880,7 +880,7 @@
 			};
 			name = Debug;
 		};
-		43C42EBB01B83A214A53FCFC4904BD1B /* Debug */ = {
+		2611EC16AF367A7554A2FD74FF9E9215 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 58550DBE06237F0C52076489DBE0E0BD /* Starscream.xcconfig */;
 			buildSettings = {
@@ -911,6 +911,110 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
+		};
+		2D3A4517928CF9978981A776F097AABA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D9DBCE3EE5F72CA9F2E28DECFE89C2B7 /* Pods-ScaledroneChat.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-ScaledroneChat/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-ScaledroneChat/Pods-ScaledroneChat.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		4365BF37D2E48474F3E65771983DBF92 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FC895900E01A2D1C1AFF80444B10F6AD /* Scaledrone.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/Scaledrone/Scaledrone-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Scaledrone/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Scaledrone/Scaledrone.modulemap";
+				PRODUCT_MODULE_NAME = Scaledrone;
+				PRODUCT_NAME = Scaledrone;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		53B0E083B032E117027083D99859A006 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B4CB4666AB3E5106020A69FB5A28F0D2 /* Pods-ScaledroneChat.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-ScaledroneChat/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-ScaledroneChat/Pods-ScaledroneChat.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
 		};
 		740DB2B5E024861F611E16DE2889401E /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -977,12 +1081,10 @@
 			};
 			name = Debug;
 		};
-		93904DEF3122163BF66A0FA5C664DB65 /* Release */ = {
+		C8DD0570C866A18316012A551E4A18C3 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 234CA386E2B1B28B70D4ADA060C36673 /* Pods-ScaledroneChatTest.release.xcconfig */;
+			baseConfigurationReference = FC895900E01A2D1C1AFF80444B10F6AD /* Scaledrone.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -992,20 +1094,19 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-ScaledroneChatTest/Info.plist";
+				GCC_PREFIX_HEADER = "Target Support Files/Scaledrone/Scaledrone-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Scaledrone/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-ScaledroneChatTest/Pods-ScaledroneChatTest.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				MODULEMAP_FILE = "Target Support Files/Scaledrone/Scaledrone.modulemap";
+				PRODUCT_MODULE_NAME = Scaledrone;
+				PRODUCT_NAME = Scaledrone;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -1071,72 +1172,7 @@
 			};
 			name = Release;
 		};
-		DFD21458B32FA83E61BD455BC27E3F37 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = FC895900E01A2D1C1AFF80444B10F6AD /* Scaledrone.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/Scaledrone/Scaledrone-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/Scaledrone/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/Scaledrone/Scaledrone.modulemap";
-				PRODUCT_MODULE_NAME = Scaledrone;
-				PRODUCT_NAME = Scaledrone;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		E4C687254F444EDBD66F86DC033775FA /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = FC895900E01A2D1C1AFF80444B10F6AD /* Scaledrone.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/Scaledrone/Scaledrone-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/Scaledrone/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/Scaledrone/Scaledrone.modulemap";
-				PRODUCT_MODULE_NAME = Scaledrone;
-				PRODUCT_NAME = Scaledrone;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		E74A19BEA53E9A6FB805F43135407B64 /* Release */ = {
+		EC074AE1C4356EDBBDF96792504DF4AE /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 58550DBE06237F0C52076489DBE0E0BD /* Starscream.xcconfig */;
 			buildSettings = {
@@ -1169,45 +1205,18 @@
 			};
 			name = Release;
 		};
-		E74C08F59F73850BC541B175022FE162 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = A3A1F1336B03A438EFFEAE4558069953 /* Pods-ScaledroneChatTest.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-ScaledroneChatTest/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-ScaledroneChatTest/Pods-ScaledroneChatTest.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		0492AB267E29B10B5CD13DEA6D895C83 /* Build configuration list for PBXNativeTarget "Scaledrone" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4365BF37D2E48474F3E65771983DBF92 /* Debug */,
+				C8DD0570C866A18316012A551E4A18C3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -1226,11 +1235,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		63ABD4FB30D3DA12B0D3E97B211DA222 /* Build configuration list for PBXNativeTarget "Pods-ScaledroneChatTest" */ = {
+		77F3BE169E1F38B9D131C5864ECC953C /* Build configuration list for PBXNativeTarget "Pods-ScaledroneChat" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E74C08F59F73850BC541B175022FE162 /* Debug */,
-				93904DEF3122163BF66A0FA5C664DB65 /* Release */,
+				2D3A4517928CF9978981A776F097AABA /* Debug */,
+				53B0E083B032E117027083D99859A006 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC6CC18F6EE7EE1CCD44FAF2439531D2 /* Build configuration list for PBXNativeTarget "Starscream" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2611EC16AF367A7554A2FD74FF9E9215 /* Debug */,
+				EC074AE1C4356EDBBDF96792504DF4AE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1240,24 +1258,6 @@
 			buildConfigurations = (
 				21716BC17056CEAB13C33FAD51D00B43 /* Debug */,
 				75D9613E5BE1E9775C1B046C236039B8 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		EF1CFD859495C84562F926081E12D90E /* Build configuration list for PBXNativeTarget "Starscream" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				43C42EBB01B83A214A53FCFC4904BD1B /* Debug */,
-				E74A19BEA53E9A6FB805F43135407B64 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		FF81DADE62F500B5C6E99933620CA97D /* Build configuration list for PBXNativeTarget "Scaledrone" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				E4C687254F444EDBD66F86DC033775FA /* Debug */,
-				DFD21458B32FA83E61BD455BC27E3F37 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

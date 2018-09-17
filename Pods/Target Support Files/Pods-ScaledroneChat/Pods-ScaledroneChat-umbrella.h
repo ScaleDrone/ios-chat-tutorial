@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_ScaledroneChatTestVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_ScaledroneChatTestVersionString[];
+FOUNDATION_EXPORT double Pods_ScaledroneChatVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_ScaledroneChatVersionString[];
 

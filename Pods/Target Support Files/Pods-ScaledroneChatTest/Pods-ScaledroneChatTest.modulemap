@@ -1,6 +1,0 @@
-framework module Pods_ScaledroneChatTest {
-  umbrella header "Pods-ScaledroneChatTest-umbrella.h"
-
-  export *
-  module * { export * }
-}
