@@ -18,7 +18,7 @@ class ChatService {
   
   init(member: Member, onRecievedMessage: @escaping (Message)-> Void) {
     self.messageCallback = onRecievedMessage
-    #error("Make sure to input your channel ID and delete this line.")
+//    #error("Make sure to input your channel ID and delete this line.")
     self.scaledrone = Scaledrone(
       channelID: "YOUR-CHANNEL-ID",
       data: member.toJSON)
